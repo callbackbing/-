@@ -19,7 +19,6 @@
 * 如何yaf中使用library例如引入Tool类
 * conf/application
 * + application.library = APP_PATH "/library" 
-* + applicatin.library.namespace = "Tool"
 * library文件夹中新建Tool/Tool.php
 * Tool.php
 * + namespace Tool;
